@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/strush
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.stevetrush.com
+  * I am strush (https://keybase.io/strush) on keybase.
+  * I have a public key ASDDL2DrKMV6o8JSqAVIZkTFyUbpIbKrrFtn2hZZ_qs63Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c32f60eb28c57aa3c252a805486644c5c946e921b2abac5b67da1659feab3add0a",
+      "host": "keybase.io",
+      "kid": "0120c32f60eb28c57aa3c252a805486644c5c946e921b2abac5b67da1659feab3add0a",
+      "uid": "be540bf31a76c06858609c805bd63419",
+      "username": "strush"
+    },
+    "merkle_root": {
+      "ctime": 1530139601,
+      "hash": "d8305f743fd1352aa9a07a548ec403729a67028fdbddde4d20fe5022aa1f7edb9e9a871f57dd66c53fd6517058ec8d16a952f7b0a381d319591a8405aea490bc",
+      "hash_meta": "db41e751563de81172815287cd7542e441bc00264ca035a9329fc2c8bdb6bfe6",
+      "seqno": 3160878
+    },
+    "service": {
+      "entropy": "Kaql98U5UvYiAWqwuAAhmAQo",
+      "hostname": "www.stevetrush.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1530139655,
+  "expire_in": 504576000,
+  "prev": "1b87e85a202a71baac58ad83b4c6a02bad960d85ed4d28bb92bcec77033db797",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwy9g6yjFeqPCUqgFSGZExclG6SGyq6xbZ9oWWf6rOt0Kp3BheWxvYWTESpcCB8QgG4foWiAqcbqsWK2DtMagK62WDYXtTSi7krzsdwM9t5fEIBFFC4F/zoKj+L5BX2pbJqvQLVp7EC9buT89nt98ttImAgHCo3NpZ8RALES15T4PaTiMOvuaWyneknNRLEN/MlD407eSYcASWBn/2gHhlvAPcx3GTQwACalYVMv5DSaomZnOydxij6TTDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOVoEqtmorHm1c3nY5G3wqXBo3hSz5bu8NQVHmsGe7+Mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/strush
+
+==================================================================
